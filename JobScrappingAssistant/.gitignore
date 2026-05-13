@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Session / secret files
+linkedin_session.json
+
+# Optional
+.env
+.vscode/
+.idea/
