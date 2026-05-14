@@ -1,0 +1,7 @@
+Daily Notes
+
+1. Finish Python assignment
+2. Revise PyAutoGUI
+3. Practice automation projects
+
+Have a productive day!
